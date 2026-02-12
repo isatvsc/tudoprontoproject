@@ -1,6 +1,7 @@
 import { Link } from "react-router";
 import { Facebook, Instagram, Mail, Phone, MapPin } from "lucide-react";
-import logo from "figma:asset/318b555f15be6e68de0ba8d08eaccc31f9301558.png";
+import logo from "../../assets/logotudopronto2.png";
+
 
 export default function Footer() {
   return (
@@ -9,7 +10,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo e Descrição */}
           <div className="col-span-1 md:col-span-2">
-            <img src={logo} alt="TudoPronto" className="h-10 mb-4 brightness-0 invert" />
+            <img src={logo} alt="TudoPronto" className="h-10 mb-4 brightness-2 invert" />
             <p className="text-sm text-gray-400 max-w-md">
               Conectando você aos melhores profissionais de Itapipoca. Serviços de qualidade com segurança e rapidez.
             </p>
@@ -55,7 +56,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2 text-sm">
                 <Phone className="w-4 h-4 flex-shrink-0" />
-                <span>(88) 99999-9999</span>
+                <span>(88) 99267-7547</span>
               </li>
               <li className="flex items-center gap-2 text-sm">
                 <Mail className="w-4 h-4 flex-shrink-0" />

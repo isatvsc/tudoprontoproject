@@ -2,7 +2,7 @@ import { Link, useNavigate } from "react-router";
 import { Button } from "./ui/button";
 import { Menu, User, Search } from "lucide-react";
 import { useState } from "react";
-import logo from "figma:asset/318b555f15be6e68de0ba8d08eaccc31f9301558.png";
+import logo from "../../assets/logotudopronto.png";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

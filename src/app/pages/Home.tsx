@@ -7,7 +7,7 @@ import ProfessionalCard from "../components/ProfessionalCard";
 import TestimonialCard from "../components/TestimonialCard";
 import { Search, CheckCircle, Clock, Shield, TrendingUp, BadgeCheck, Lock, MapPin, Users } from "lucide-react";
 import { services, popularSearches, professionals, testimonials } from "../data/mockData";
-import logo from "figma:asset/7fab7c4942cc1733e2a1eb42c3d0431a88e3becb.png";
+import logo from "../../assets/logotudopronto2.png";
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
