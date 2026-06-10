@@ -415,32 +415,32 @@ export const professionals: Professional[] = [
 export const testimonials: Testimonial[] = [
   {
     id: "1",
-    clientName: "Maria Santos",
-    photo: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop",
+    clientName: "Augusto dos Anjos",
+    photo: "https://www.instagram.com/p/DW-jGDIjMp4/",
     comment: "Encontrei um eletricista excelente através da plataforma. Trabalho rápido e de qualidade!",
     rating: 5,
     service: "Serviços Elétricos"
   },
   {
     id: "2",
-    clientName: "Pedro Costa",
-    photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop",
+    clientName: "Clarice Teixeira",
+    photo: "https://www.instagram.com/p/DN1VUKdYlK1/",
     comment: "Precisava de um encanador urgente e consegui em minutos. Muito prático e confiável!",
     rating: 5,
     service: "Serviços Hidráulicos"
   },
   {
     id: "3",
-    clientName: "Ana Paula",
-    photo: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop",
+    clientName: "Maria Benedita",
+    photo: "https://support.google.com/photos/thread/331659819/eu-n%C3%A3o-reconhe%C3%A7o-as-pessoas-que-aparecem-em-procurar-roupas-s%C3%A3o-pessoas-aleat%C3%B3rias?hl=pt-br",
     comment: "A plataforma me ajudou a encontrar profissionais verificados. Me senti muito segura!",
     rating: 5,
     service: "Pintura"
   },
   {
     id: "4",
-    clientName: "Carlos Eduardo",
-    photo: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop",
+    clientName: "Arthur Estrela",
+    photo: "https://www.instagram.com/arthurestrela/",
     comment: "Solicitei uma reforma e recebi vários orçamentos. Escolhi o melhor custo-benefício!",
     rating: 5,
     service: "Pedreiro"
